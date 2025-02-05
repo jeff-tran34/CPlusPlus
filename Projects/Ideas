@@ -1,0 +1,13 @@
+- https://www.reddit.com/r/learnpython/comments/10vd8hh/ideas_for_beginner_projects/
+  - https://github.com/karan/Projects?tab=readme-ov-file
+    - Classic Algorithms
+      - Sorting - Implement two types of sorting algorithms: Merge sort and bubble sort.
+    - Classes
+      - Recipe Creator and Manager - Create a recipe class with ingredients and a put them in a recipe manager program that organizes them into categories like deserts, main courses or by ingredients like chicken, beef, soups, pies etc.
+    - Web
+      - Fetch Current Weather - Get the current weather for a given zip/postal code. Optional: Try locating the user automatically.
+      - Scheduled Auto Login and Action - Make an application which logs into a given site on a schedule and invokes a certain action and then logs out. This can be useful for checking web mail, posting regular content, or getting info for other applications and saving it to your computer.
+    - Databases
+      - SQL Query Analyzer - A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
+      - Report Generator - Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
+      - Travel Planner System - Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule.
